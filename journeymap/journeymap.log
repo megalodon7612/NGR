@@ -1,0 +1,192 @@
+[23:28:18] [Render thread/INFO] [JMLogger] JourneyMap log initialized.
+[23:28:18] [Render thread/INFO] [JourneymapClient] initialize ENTER
+[23:28:18] [Render thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.9-SNAPSHOT
+[23:28:18] [Render thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[23:28:18] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: me.frankv.jmi.JMIJourneyMapPlugin
+[23:28:18] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: com.gregtechceu.gtceu.integration.map.journeymap.JourneyMapPlugin
+[23:28:18] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: com.tom.createores.jm.JMPlugin
+[23:28:18] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: com.minecolonies.core.compatibility.journeymap.JourneymapPlugin
+[23:28:18] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: net.blay09.mods.waystones.compat.JourneyMapIntegration
+[23:28:18] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: com.railwayteam.railways.compat.journeymap.RailwayMapPlugin
+[23:28:18] [Render thread/INFO] [PropertiesBase] gtceu (FirstLoaded) Setting config file to version "5.10.3": addon.gtceu.config
+[23:28:18] [Render thread/INFO] [PropertiesBase] gtceu (Valid) Creating config file: C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\config\5.10\addons\addon.gtceu.config
+[23:28:18] [Render thread/INFO] [PropertiesBase] minecolonies (FirstLoaded) Setting config file to version "5.10.3": addon.minecolonies.config
+[23:28:18] [Render thread/INFO] [PropertiesBase] minecolonies (Valid) Creating config file: C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\config\5.10\addons\addon.minecolonies.config
+[23:28:18] [Render thread/INFO] [PropertiesBase] core (FirstLoaded) Setting config file to version "5.10.3": journeymap.core.config
+[23:28:18] [Render thread/INFO] [PropertiesBase] core (Valid) Creating config file: C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\config\5.10\journeymap.core.config
+[23:28:18] [Render thread/INFO] [PropertiesBase] fullmap (FirstLoaded) Setting config file to version "5.10.3": journeymap.fullmap.config
+[23:28:18] [Render thread/INFO] [PropertiesBase] fullmap (Valid) Creating config file: C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\config\5.10\journeymap.fullmap.config
+[23:28:18] [Render thread/INFO] [PropertiesBase] minimap (Initialized) Setting config file to version "5.10.3": journeymap.minimap.config
+[23:28:18] [Render thread/INFO] [PropertiesBase] minimap (Valid) Creating config file: C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\config\5.10\journeymap.minimap.config
+[23:28:18] [Render thread/INFO] [PropertiesBase] minimap2 (FirstLoaded) Setting config file to version "5.10.3": journeymap.minimap2.config
+[23:28:18] [Render thread/INFO] [PropertiesBase] minimap2 (Valid) Creating config file: C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\config\5.10\journeymap.minimap2.config
+[23:28:18] [Render thread/INFO] [PropertiesBase] topo (FirstLoaded) Setting config file to version "5.10.3": journeymap.topo.config
+[23:28:18] [Render thread/INFO] [PropertiesBase] topo (Valid) Creating config file: C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\config\5.10\journeymap.topo.config
+[23:28:18] [Render thread/INFO] [PropertiesBase] webmap (FirstLoaded) Setting config file to version "5.10.3": journeymap.webmap.config
+[23:28:18] [Render thread/INFO] [PropertiesBase] webmap (Valid) Creating config file: C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\config\5.10\journeymap.webmap.config
+[23:28:18] [Render thread/INFO] [PropertiesBase] waypoint (FirstLoaded) Setting config file to version "5.10.3": journeymap.waypoint.config
+[23:28:18] [Render thread/INFO] [PropertiesBase] waypoint (Valid) Creating config file: C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\config\5.10\journeymap.waypoint.config
+[23:28:18] [Render thread/INFO] [?] Version: JourneyMap 1.20.1-5.10.3, built with forge 1.20.1-47.2.30
+forge: 47.4.0
+Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_us, locale=en_us
+Features: 
+	RadarPlayers : singleplayer = true , multiplayer = true
+	RadarAnimals : singleplayer = true , multiplayer = true
+	RadarMobs : singleplayer = true , multiplayer = true
+	RadarVillagers : singleplayer = true , multiplayer = true
+	MapTopo : singleplayer = true , multiplayer = true
+	MapSurface : singleplayer = true , multiplayer = true
+	MapCaves : singleplayer = true , multiplayer = true
+	MapBiome : singleplayer = true , multiplayer = true
+MiniMapProperties{state=SavedOk, file=journeymap.minimap.config, configVersion=5.10.3, zoomLevel=0, compassFontScale=1.0, terrainAlpha=100, showEntityNames=true, positionX=0.9, positionY=0.25, effectVertical=false, showPlayerHeading=true, sizePercent=30, playerDisplayScale=1.0, showDayNight=true, showPets=true, preferredMapType=day, showCompass=true, mobDisplay=jm.common.entity_display.dots, systemTimeRealFormat=HH:mm:ss, shape=jm.minimap.shape_circle, showSelf=true, selfDisplayScale=1.0, showGrid=true, reticleOrientation=jm.minimap.orientation.compass, gameTimeRealFormat=HH:mm:ss, effectTranslateX=0, showWaypoints=true, minimapKeyMovementSpeed=0.001, showAnimals=true, infoSlotAlpha=0.7, effectTranslateY=0, showWaypointLabels=true, moveEffectIcons=true, position=jm.minimap.position_topright, fontScale=1.0, showPlayers=true, waypointIconScale=1.0, frameAlpha=100, effectReversed=false, backgroundAlpha=0.8, enabled=true, showVillagers=true, info2Label=jm.theme.labelsource.gametime, info3Label=jm.theme.labelsource.location, showMobs=true, waypointLabelScale=1.0, showReticle=true, orientation=jm.minimap.orientation.north, info4Label=jm.theme.labelsource.biome, locationFormat=xzyv, playerDisplay=jm.common.entity_display.dots, mobDisplayScale=1.0, showCaves=true, showMobHeading=true, locationFormatVerbose=true, info1Label=jm.theme.labelsource.blank}
+MiniMapProperties{state=SavedOk, file=journeymap.minimap2.config, configVersion=5.10.3, zoomLevel=0, compassFontScale=1.0, terrainAlpha=100, showEntityNames=true, positionX=0.9, positionY=0.25, effectVertical=false, showPlayerHeading=true, sizePercent=30, playerDisplayScale=1.0, showDayNight=true, showPets=true, preferredMapType=day, showCompass=true, mobDisplay=jm.common.entity_display.dots, systemTimeRealFormat=HH:mm:ss, shape=jm.minimap.shape_rectangle, showSelf=true, selfDisplayScale=1.0, showGrid=true, reticleOrientation=jm.minimap.orientation.compass, gameTimeRealFormat=HH:mm:ss, effectTranslateX=0, showWaypoints=true, minimapKeyMovementSpeed=0.001, showAnimals=true, infoSlotAlpha=0.7, effectTranslateY=0, showWaypointLabels=true, moveEffectIcons=true, position=jm.minimap.position_topright, fontScale=1.0, showPlayers=true, waypointIconScale=1.0, frameAlpha=100, effectReversed=false, backgroundAlpha=0.8, enabled=true, showVillagers=true, info2Label=jm.theme.labelsource.gametime, info3Label=jm.theme.labelsource.location, showMobs=true, waypointLabelScale=1.0, showReticle=true, orientation=jm.minimap.orientation.north, info4Label=jm.theme.labelsource.biome, locationFormat=xzyv, playerDisplay=jm.common.entity_display.dots, mobDisplayScale=1.0, showCaves=true, showMobHeading=true, locationFormatVerbose=true, info1Label=jm.theme.labelsource.blank}
+FullMapProperties{state=SavedOk, file=journeymap.fullmap.config, configVersion=5.10.3, zoomLevel=0, showPlayers=true, waypointIconScale=1.0, showEntityNames=true, showPlayerHeading=true, showVillagers=true, showPlayerLoc=true, showKeys=true, playerDisplayScale=1.0, showMobs=true, showPets=true, waypointLabelScale=1.0, preferredMapType=day, mobDisplay=jm.common.entity_display.dots, showSelf=true, locationFormat=xzyv, playerDisplay=jm.common.entity_display.dots, mobDisplayScale=1.0, selfDisplayScale=1.0, showGrid=true, showMouseLoc=true, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, fontScale=1.0}
+WaypointProperties{state=SavedOk, file=journeymap.waypoint.config, configVersion=5.10.3, autoRemoveDeathpointDistance=2, dateFormat=MM-dd-yyyy, autoRemoveDeathpoints=false, fullscreenDoubleClickToCreate=true, managerDimensionFocus=false, minDistance=4, boldLabel=false, textureSmall=true, showDeathpointlabel=true, beaconEnabled=true, createDeathpoints=true, showName=true, disableStrikeThrough=false, maxDistance=0, autoHideLabel=true, autoRemoveTempWaypoints=2, teleportCommand=/tp {name} {x} {y} {z}, showStaticBeam=true, shaderBeacon=false, timeFormat=HH:mm:ss, showDeviationLabel=false, showDistance=true, showRotatingBeam=true, fontScale=2.0, showTexture=true, managerEnabled=true}
+WebMapProperties{state=SavedOk, file=journeymap.webmap.config, configVersion=5.10.3, port=8080, enabled=false}
+CoreProperties{state=SavedOk, file=journeymap.core.config, configVersion=5.10.3, verboseColorPalette=false, maxPlayersData=32, mapSurfaceAboveCaves=true, dataCachingEnabled=true, optionsManagerViewed=null, announceMod=true, colorPassive=#bbbbbb, mapBlendWater=false, renderDistanceSurfaceMax=0, seedId=false, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, revealShape=jm.minimap.shape_circle, mapBiome=true, alwaysMapSurface=false, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, radarLateralDistance=64, mapBathymetry=false, mapCrops=true, maxMobsData=32, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, mapBlendFoliage=true, hideSpectators=false, mappingEnabled=true, colorPlayer=#ffffff, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, mapWaterBiomeColors=false, maxAnimalsData=32, mapTransparency=true, caveBlackAsClear=false, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=0, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, cacheMobsData=3000, cachePlayerData=1000, splashViewed=null, colorHostile=#ff0000, cacheAnimalsData=3100, themeName=OceanMonument, mapCaveLighting=true, renderDelay=2, glErrorChecking=false, autoMapPoll=2000}
+[23:28:19] [Render thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 1 avg 331,95ms
+[23:28:43] [Render thread/INFO] [JourneymapClient] Journeymap PostInit
+[23:28:43] [Render thread/INFO] [ThemeLoader] Preloaded theme textures: 73
+[23:28:43] [Render thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed count 1 avg 161,06ms
+[23:36:20] [Server thread/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
+[23:37:05] [Server thread/INFO] [PropertiesBase] global (FirstLoaded) Setting config file to version "5.10.3": journeymap.server.global.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] global (Valid) Creating config file: C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\server\5.10\journeymap.server.global.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] default (FirstLoaded) Setting config file to version "5.10.3": journeymap.server.default.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] default (Valid) Creating config file: C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\server\5.10\journeymap.server.default.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] minecraft~overworld (Initialized) Setting config file to version "5.10.3": journeymap.server.minecraft~overworld.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] minecraft~overworld (Valid) Creating config file: C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\server\5.10\journeymap.server.minecraft~overworld.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] ad_astra~glacio_orbit (Initialized) Setting config file to version "5.10.3": journeymap.server.ad_astra~glacio_orbit.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] ad_astra~glacio_orbit (Valid) Creating config file: C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\server\5.10\journeymap.server.ad_astra~glacio_orbit.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] sgjourney~chulak (Initialized) Setting config file to version "5.10.3": journeymap.server.sgjourney~chulak.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] sgjourney~chulak (Valid) Creating config file: C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\server\5.10\journeymap.server.sgjourney~chulak.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] bloodmagic~dungeon (Initialized) Setting config file to version "5.10.3": journeymap.server.bloodmagic~dungeon.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] bloodmagic~dungeon (Valid) Creating config file: C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\server\5.10\journeymap.server.bloodmagic~dungeon.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] ad_astra~earth_orbit (Initialized) Setting config file to version "5.10.3": journeymap.server.ad_astra~earth_orbit.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] ad_astra~earth_orbit (Valid) Creating config file: C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\server\5.10\journeymap.server.ad_astra~earth_orbit.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] minecraft~the_end (Initialized) Setting config file to version "5.10.3": journeymap.server.minecraft~the_end.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] minecraft~the_end (Valid) Creating config file: C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\server\5.10\journeymap.server.minecraft~the_end.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] sgjourney~cavum_tenebrae (Initialized) Setting config file to version "5.10.3": journeymap.server.sgjourney~cavum_tenebrae.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] sgjourney~cavum_tenebrae (Valid) Creating config file: C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\server\5.10\journeymap.server.sgjourney~cavum_tenebrae.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] allthemodium~mining (Initialized) Setting config file to version "5.10.3": journeymap.server.allthemodium~mining.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] allthemodium~mining (Valid) Creating config file: C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\server\5.10\journeymap.server.allthemodium~mining.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] ad_astra~moon (Initialized) Setting config file to version "5.10.3": journeymap.server.ad_astra~moon.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] ad_astra~moon (Valid) Creating config file: C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\server\5.10\journeymap.server.ad_astra~moon.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] minecraft~the_nether (Initialized) Setting config file to version "5.10.3": journeymap.server.minecraft~the_nether.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] minecraft~the_nether (Valid) Creating config file: C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\server\5.10\journeymap.server.minecraft~the_nether.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] undergarden~undergarden (Initialized) Setting config file to version "5.10.3": journeymap.server.undergarden~undergarden.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] undergarden~undergarden (Valid) Creating config file: C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\server\5.10\journeymap.server.undergarden~undergarden.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] allthemodium~the_other (Initialized) Setting config file to version "5.10.3": journeymap.server.allthemodium~the_other.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] allthemodium~the_other (Valid) Creating config file: C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\server\5.10\journeymap.server.allthemodium~the_other.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] sgjourney~lantea (Initialized) Setting config file to version "5.10.3": journeymap.server.sgjourney~lantea.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] sgjourney~lantea (Valid) Creating config file: C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\server\5.10\journeymap.server.sgjourney~lantea.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] twilightforest~twilight_forest (Initialized) Setting config file to version "5.10.3": journeymap.server.twilightforest~twilight_forest.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] twilightforest~twilight_forest (Valid) Creating config file: C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\server\5.10\journeymap.server.twilightforest~twilight_forest.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] ad_astra~mercury (Initialized) Setting config file to version "5.10.3": journeymap.server.ad_astra~mercury.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] ad_astra~mercury (Valid) Creating config file: C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\server\5.10\journeymap.server.ad_astra~mercury.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] ad_astra~glacio (Initialized) Setting config file to version "5.10.3": journeymap.server.ad_astra~glacio.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] ad_astra~glacio (Valid) Creating config file: C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\server\5.10\journeymap.server.ad_astra~glacio.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] blue_skies~everdawn (Initialized) Setting config file to version "5.10.3": journeymap.server.blue_skies~everdawn.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] blue_skies~everdawn (Valid) Creating config file: C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\server\5.10\journeymap.server.blue_skies~everdawn.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] ad_astra~mars_orbit (Initialized) Setting config file to version "5.10.3": journeymap.server.ad_astra~mars_orbit.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] ad_astra~mars_orbit (Valid) Creating config file: C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\server\5.10\journeymap.server.ad_astra~mars_orbit.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] deeperdarker~otherside (Initialized) Setting config file to version "5.10.3": journeymap.server.deeperdarker~otherside.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] deeperdarker~otherside (Valid) Creating config file: C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\server\5.10\journeymap.server.deeperdarker~otherside.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] aether~the_aether (Initialized) Setting config file to version "5.10.3": journeymap.server.aether~the_aether.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] aether~the_aether (Valid) Creating config file: C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\server\5.10\journeymap.server.aether~the_aether.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] mahoutsukai~reality_marble (Initialized) Setting config file to version "5.10.3": journeymap.server.mahoutsukai~reality_marble.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] mahoutsukai~reality_marble (Valid) Creating config file: C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\server\5.10\journeymap.server.mahoutsukai~reality_marble.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] voidscape~void (Initialized) Setting config file to version "5.10.3": journeymap.server.voidscape~void.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] voidscape~void (Valid) Creating config file: C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\server\5.10\journeymap.server.voidscape~void.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] sgjourney~abydos (Initialized) Setting config file to version "5.10.3": journeymap.server.sgjourney~abydos.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] sgjourney~abydos (Valid) Creating config file: C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\server\5.10\journeymap.server.sgjourney~abydos.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] allthemodium~the_beyond (Initialized) Setting config file to version "5.10.3": journeymap.server.allthemodium~the_beyond.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] allthemodium~the_beyond (Valid) Creating config file: C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\server\5.10\journeymap.server.allthemodium~the_beyond.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] ad_astra~mars (Initialized) Setting config file to version "5.10.3": journeymap.server.ad_astra~mars.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] ad_astra~mars (Valid) Creating config file: C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\server\5.10\journeymap.server.ad_astra~mars.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] ad_astra~venus_orbit (Initialized) Setting config file to version "5.10.3": journeymap.server.ad_astra~venus_orbit.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] ad_astra~venus_orbit (Valid) Creating config file: C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\server\5.10\journeymap.server.ad_astra~venus_orbit.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] ad_astra~moon_orbit (Initialized) Setting config file to version "5.10.3": journeymap.server.ad_astra~moon_orbit.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] ad_astra~moon_orbit (Valid) Creating config file: C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\server\5.10\journeymap.server.ad_astra~moon_orbit.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] blue_skies~everbright (Initialized) Setting config file to version "5.10.3": journeymap.server.blue_skies~everbright.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] blue_skies~everbright (Valid) Creating config file: C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\server\5.10\journeymap.server.blue_skies~everbright.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] lostcities~lostcity (Initialized) Setting config file to version "5.10.3": journeymap.server.lostcities~lostcity.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] lostcities~lostcity (Valid) Creating config file: C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\server\5.10\journeymap.server.lostcities~lostcity.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] mythicbotany~alfheim (Initialized) Setting config file to version "5.10.3": journeymap.server.mythicbotany~alfheim.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] mythicbotany~alfheim (Valid) Creating config file: C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\server\5.10\journeymap.server.mythicbotany~alfheim.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] ad_astra~mercury_orbit (Initialized) Setting config file to version "5.10.3": journeymap.server.ad_astra~mercury_orbit.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] ad_astra~mercury_orbit (Valid) Creating config file: C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\server\5.10\journeymap.server.ad_astra~mercury_orbit.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] ad_astra~venus (Initialized) Setting config file to version "5.10.3": journeymap.server.ad_astra~venus.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] ad_astra~venus (Valid) Creating config file: C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\server\5.10\journeymap.server.ad_astra~venus.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] ae2~spatial_storage (Initialized) Setting config file to version "5.10.3": journeymap.server.ae2~spatial_storage.config
+[23:37:05] [Server thread/INFO] [PropertiesBase] ae2~spatial_storage (Valid) Creating config file: C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\server\5.10\journeymap.server.ae2~spatial_storage.config
+[23:38:42] [Render thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for create
+[23:38:42] [Render thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for biomesoplenty
+[23:38:42] [Render thread/WARN] [JMLogger] Can't get entityTexture for naturalist:textures/entity_icon/bird/sparrow.png
+[23:38:42] [Render thread/WARN] [JMLogger] Can't get entityTexture for eidolon:textures/entity_icon/slimy_slug.png
+[23:38:44] [Render thread/INFO] [ChatLog] JourneyMap: Нажмите [J].
+[23:38:44] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[23:38:44] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[23:38:44] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\data\sp\Новый мир\waypoints
+[23:38:44] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\data\sp\Новый мир\overworld. Memory: 10176MB total, 4824MB free 
+[23:38:48] [Render thread/WARN] [JMLogger] Can't get entityTexture for aquaculture:textures/entity_icon/fish/bluegill.png
+[23:38:48] [Render thread/WARN] [JMLogger] Can't get entityTexture for aquaculture:textures/entity_icon/fish/perch.png
+[23:38:51] [Render thread/WARN] [JMLogger] Can't get entityTexture for aquaculture:textures/entity_icon/fish/carp.png
+[23:39:04] [Render thread/WARN] [JMLogger] Can't get entityTexture for naturalist:textures/entity_icon/snail/brown.png
+[23:39:07] [Render thread/WARN] [JMLogger] Can't get entityTexture for eidolon:textures/entity_icon/wraith.png
+[23:39:13] [Render thread/WARN] [JMLogger] Can't get entityTexture for naturalist:textures/entity_icon/snake/snake.png
+[23:39:23] [Render thread/WARN] [JMLogger] Can't get entityTexture for naturalist:textures/entity_icon/butterfly/blue_morpho.png
+[23:39:23] [Render thread/WARN] [JMLogger] Can't get entityTexture for creeperoverhaul:textures/entity_icon/plains/plains_creeper.png
+[23:54:03] [Render thread/WARN] [JMLogger] Can't get entityTexture for eidolon:textures/entity_icon/zombie_brute.png
+[23:54:32] [Render thread/WARN] [JMLogger] Can't get entityTexture for naturalist:textures/entity_icon/firefly/firefly.png
+[23:54:35] [Render thread/WARN] [JMLogger] Can't get entityTexture for irons_spellbooks:textures/entity_icon/necromancer.png
+[23:54:41] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/whirlisprig_summer.png
+[23:54:48] [Render thread/WARN] [JMLogger] Can't get entityTexture for irons_spellbooks:textures/entity_icon/summoned_zombie.png
+[23:54:48] [Render thread/WARN] [JMLogger] Can't get entityTexture for irons_spellbooks:textures/entity_icon/summoned_skeleton.png
+[23:55:27] [Render thread/INFO] [DeathPointHandler] megalodon7612 died at BlockPos{x=73, y=75, z=141}. Deathpoints enabled: true. Deathpoint created: true
+[23:55:28] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\user\curseforge\minecraft\Instances\All the Mods 9 - ATM9\journeymap\data\mp\offline\minecraft:overworld
+[23:55:28] [Server thread/ERROR] [PluginWrapper] Plugin JMPlugin{modId=createoreexcavation} errored during event: MAPPING_STOPPED
+java.lang.NullPointerException: Cannot invoke "java.io.File.mkdirs()" because "modFolder" is null
+	at com.tom.createores.jm.OreVeinsOverlay.onMappingStopped(OreVeinsOverlay.java:115) ~[createoreexcavation-1.20-1.5.3.jar%23691!/:1.5.3]
+	at com.tom.createores.jm.JMPlugin.onEvent(JMPlugin.java:36) ~[createoreexcavation-1.20-1.5.3.jar%23691!/:1.5.3]
+	at journeymap.client.api.impl.PluginWrapper.notify(PluginWrapper.java:377) ~[journeymap-1.20.1-5.10.3-forge.jar%23801!/:1.20.1-5.10.3]
+	at journeymap.client.api.impl.ClientEventManager.fireMappingEvent(ClientEventManager.java:81) ~[journeymap-1.20.1-5.10.3-forge.jar%23801!/:1.20.1-5.10.3]
+	at journeymap.client.JourneymapClient.stopMapping(JourneymapClient.java:608) ~[journeymap-1.20.1-5.10.3-forge.jar%23801!/:1.20.1-5.10.3]
+	at journeymap.client.event.handlers.WorldEventHandler.onUnload(WorldEventHandler.java:32) ~[journeymap-1.20.1-5.10.3-forge.jar%23801!/:1.20.1-5.10.3]
+	at journeymap.client.event.forge.ForgeWorldEvent.onUnload(ForgeWorldEvent.java:19) ~[journeymap-1.20.1-5.10.3-forge.jar%23801!/:1.20.1-5.10.3]
+	at journeymap.client.event.forge.__ForgeWorldEvent_onUnload_Unload.invoke(.dynamic) ~[journeymap-1.20.1-5.10.3-forge.jar%23801!/:1.20.1-5.10.3]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.mehvahdjukaar.moonlight.api.platform.forge.PlatHelperImpl.invokeLevelUnload(PlatHelperImpl.java:280) ~[moonlight-1.20-2.13.82-forge.jar%23852!/:?]
+	at net.mehvahdjukaar.moonlight.api.platform.PlatHelper.invokeLevelUnload(PlatHelper.java) ~[moonlight-1.20-2.13.82-forge.jar%23852!/:?]
+	at net.mehvahdjukaar.moonlight.core.misc.FakeLevelManager.invalidate(FakeLevelManager.java:30) ~[moonlight-1.20-2.13.82-forge.jar%23852!/:?]
+	at java.util.ArrayList.forEach(Unknown Source) ~[?:?]
+	at net.mehvahdjukaar.moonlight.core.misc.FakeLevelManager.invalidateAll(FakeLevelManager.java:23) ~[moonlight-1.20-2.13.82-forge.jar%23852!/:?]
+	at net.mehvahdjukaar.moonlight.forge.MoonlightForge.onServerShuttingDown(MoonlightForge.java:92) ~[moonlight-1.20-2.13.82-forge.jar%23852!/:?]
+	at net.mehvahdjukaar.moonlight.forge.__MoonlightForge_onServerShuttingDown_ServerStoppingEvent.invoke(.dynamic) ~[moonlight-1.20-2.13.82-forge.jar%23852!/:?]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopping(ServerLifecycleHooks.java:122) ~[forge-1.20.1-47.4.0-universal.jar%231014!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:671) ~[client-1.20.1-20230612.114412-srg.jar%231009!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[client-1.20.1-20230612.114412-srg.jar%231009!/:?]
+	at java.lang.Thread.run(Unknown Source) ~[?:?]
+[23:55:29] [Server thread/ERROR] [PluginWrapper] Plugin JMPlugin{modId=createoreexcavation} errored during event: MAPPING_STOPPED
+java.lang.NullPointerException: Cannot invoke "java.io.File.mkdirs()" because "modFolder" is null
+	at com.tom.createores.jm.OreVeinsOverlay.onMappingStopped(OreVeinsOverlay.java:115) ~[createoreexcavation-1.20-1.5.3.jar%23691!/:1.5.3]
+	at com.tom.createores.jm.JMPlugin.onEvent(JMPlugin.java:36) ~[createoreexcavation-1.20-1.5.3.jar%23691!/:1.5.3]
+	at journeymap.client.api.impl.PluginWrapper.notify(PluginWrapper.java:377) ~[journeymap-1.20.1-5.10.3-forge.jar%23801!/:1.20.1-5.10.3]
+	at journeymap.client.api.impl.ClientEventManager.fireMappingEvent(ClientEventManager.java:81) ~[journeymap-1.20.1-5.10.3-forge.jar%23801!/:1.20.1-5.10.3]
+	at journeymap.client.JourneymapClient.stopMapping(JourneymapClient.java:608) ~[journeymap-1.20.1-5.10.3-forge.jar%23801!/:1.20.1-5.10.3]
+	at journeymap.client.event.handlers.WorldEventHandler.onUnload(WorldEventHandler.java:32) ~[journeymap-1.20.1-5.10.3-forge.jar%23801!/:1.20.1-5.10.3]
+	at journeymap.client.event.forge.ForgeWorldEvent.onUnload(ForgeWorldEvent.java:19) ~[journeymap-1.20.1-5.10.3-forge.jar%23801!/:1.20.1-5.10.3]
+	at journeymap.client.event.forge.__ForgeWorldEvent_onUnload_Unload.invoke(.dynamic) ~[journeymap-1.20.1-5.10.3-forge.jar%23801!/:1.20.1-5.10.3]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2387!/:?]
+	at net.minecraft.server.MinecraftServer.m_7041_(MinecraftServer.java:589) ~[client-1.20.1-20230612.114412-srg.jar%231009!/:?]
+	at net.minecraft.client.server.IntegratedServer.m_7041_(IntegratedServer.java:187) ~[client-1.20.1-20230612.114412-srg.jar%231009!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:689) ~[client-1.20.1-20230612.114412-srg.jar%231009!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[client-1.20.1-20230612.114412-srg.jar%231009!/:?]
+	at java.lang.Thread.run(Unknown Source) ~[?:?]
+[23:55:31] [Server thread/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
